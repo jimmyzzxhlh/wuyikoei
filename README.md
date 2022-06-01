@@ -1,2 +1,3 @@
 # wuyikoei
-乳爽语录
+
+从Twitch收集过来的乳爽语录。
